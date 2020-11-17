@@ -1,5 +1,5 @@
 # POOA <h1>
-
+### Autor: Guilherme Locca Salomão <h3>
 
 
 [**POO**](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos), programação orientada a objetos, é um dos 4 principais paradigmas da programação, um dos quais a depender do caso em questão, pode ser a melhor estrutura para se usar em seu programa
@@ -12,9 +12,9 @@ O que isso quer dizer é, **qualquer linguagem serve para programação orientad
 
 POO é um grande conjunto de diretrizes e ou estruturas a se seguir para criar seu programa, e muitas delas podem ser traduzidas para outros paradigmas da computação, isso faz com que seja possível afirmar que qualquer linguagem pode ser usada com esse objetivo.
 
-Um conjunto dessas diretrizes é representado pelo acronimo [SOLID](https://pt.wikipedia.org/wiki/SOLID) , dentro deles falaremos apenas do S, que representa _Single-responsibility principle_(Princípio da responsabilidade única).
+Um conjunto dessas diretrizes é representado pelo acronimo [SOLID](https://pt.wikipedia.org/wiki/SOLID) , dentro deles falaremos apenas do S, que representa [_Single-responsibility principle_](https://en.wikipedia.org/wiki/Single-responsibility_principle)(Princípio da responsabilidade única).
 
-# Princípio da responsabilidade única <h2>
+## Princípio da responsabilidade única <h2>
 
 Esse princípio é resumido com a seguinte frase
 
@@ -73,7 +73,7 @@ class quadradoPrinter{
 Agora sim temos duas classes com responsabilidades únicas, uma sendo responsável por armazenar as informações e realizar cálculos intrínsecos a essas informações, e outra responsável apenas por imprimir essas informações. Seguindo esse princípio, expandir esse código, como por exemplo adicionar o volume e imprimir ele, é mais fácil e seguro, sem causar quebras na lógica do mesmo. E se quisermos adicionar mais coisas?
 
 
-# Design especulativo <h2>
+## Design especulativo <h2>
 
 
 Tendo o mesmo exemplo de antes, já corrigido pelo Princípio da responsabilidade única, digamos que este tenha sido o requisito de um cliente: “me faça um programa que imprime a área de um quadrado”.
