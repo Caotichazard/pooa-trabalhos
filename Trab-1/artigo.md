@@ -1,5 +1,5 @@
 # POOA <h1>
-### Autor: Guilherme Locca Salomão <h3>
+##### Autor: Guilherme Locca Salomão <h5>
 
 
 [**POO**](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos), programação orientada a objetos, é um dos 4 principais paradigmas da programação, um dos quais a depender do caso em questão, pode ser a melhor estrutura para se usar em seu programa
