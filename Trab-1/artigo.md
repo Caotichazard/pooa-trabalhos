@@ -1,4 +1,4 @@
-# POOA <h1>
+# POO - Uma leve introdução ao que é, como usar e o que evitar <h1>
 ##### Autor: Guilherme Locca Salomão <h5>
 
 
